@@ -1,8 +1,0 @@
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\IRepository\bin\Debug\netcoreapp3.0\IRepository.deps.json
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\IRepository\bin\Debug\netcoreapp3.0\IRepository.dll
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\IRepository\bin\Debug\netcoreapp3.0\IRepository.pdb
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\IRepository\obj\Debug\netcoreapp3.0\IRepository.AssemblyInfoInputs.cache
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\IRepository\obj\Debug\netcoreapp3.0\IRepository.AssemblyInfo.cs
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\IRepository\obj\Debug\netcoreapp3.0\IRepository.dll
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\IRepository\obj\Debug\netcoreapp3.0\IRepository.pdb
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\IRepository\obj\Debug\netcoreapp3.0\IRepository.csprojAssemblyReference.cache

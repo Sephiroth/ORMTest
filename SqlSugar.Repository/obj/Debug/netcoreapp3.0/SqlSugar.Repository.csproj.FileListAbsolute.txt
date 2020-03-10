@@ -1,4 +1,0 @@
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\SqlSugar.Repository\bin\Debug\netcoreapp3.0\SqlSugar.Repository.deps.json
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\SqlSugar.Repository\bin\Debug\netcoreapp3.0\SqlSugar.Repository.dll
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\SqlSugar.Repository\obj\Debug\netcoreapp3.0\SqlSugar.Repository.AssemblyInfoInputs.cache
-F:\CSharp\WebApiCoreFx_ALL\WebApiDotnetCoreDemo\DotnetCore3WebApi\SqlSugar.Repository\obj\Debug\netcoreapp3.0\SqlSugar.Repository.AssemblyInfo.cs
