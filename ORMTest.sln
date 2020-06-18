@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlSugar.Repository", "SqlS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORMTest", "ORMTest\ORMTest.csproj", "{426DE04D-EF69-4A51-A325-D4DF92D084F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore.IRepository", "EFCore.IRepository\EFCore.IRepository.csproj", "{A2920B7A-6E00-4459-AF72-244E898462A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreDBLayer.MySQL", "EFCoreDBLayer.MySQL\EFCoreDBLayer.MySQL.csproj", "{300C8193-5853-4453-9A35-181EAA6ADA84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{426DE04D-EF69-4A51-A325-D4DF92D084F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{426DE04D-EF69-4A51-A325-D4DF92D084F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{426DE04D-EF69-4A51-A325-D4DF92D084F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2920B7A-6E00-4459-AF72-244E898462A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2920B7A-6E00-4459-AF72-244E898462A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2920B7A-6E00-4459-AF72-244E898462A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2920B7A-6E00-4459-AF72-244E898462A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{300C8193-5853-4453-9A35-181EAA6ADA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300C8193-5853-4453-9A35-181EAA6ADA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300C8193-5853-4453-9A35-181EAA6ADA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300C8193-5853-4453-9A35-181EAA6ADA84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
